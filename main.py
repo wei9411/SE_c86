@@ -1,5 +1,5 @@
 def multiply(a, b):
-    return <a*b>
+    return a*b
 
 
 num1 = float(input("Enter first number: "))
